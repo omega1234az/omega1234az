@@ -2,10 +2,10 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Aspiring Software Engineer** with a strong interest in **full-stack web development**.
-Currently seeking **Software Engineer Internship opportunities** to gain real-world experience and grow professionally.
+I'm a **third-year student at the University of Phayao** with a strong interest in becoming a **Software Engineer**, particularly in **full-stack web development**.  
+Currently seeking **Software Engineer internship opportunities** to gain real-world experience and further develop my professional skills.
 
-I enjoy learning new technologies, building practical applications, and improving my engineering mindset.
+I enjoy learning new technologies and building practical applications.
 
 ---
 
